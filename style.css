@@ -16,7 +16,7 @@ button:focus {
 
 /* -------- BODY DISPLAY --------- */
 body {
-  background-color: #222;
+  background-color: #0d47a1;
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -42,7 +42,7 @@ body {
   text-transform: uppercase;
   line-height: 0.76em;
   position: absolute;
-  color: #fff;
+  color: #bbdefb; 
   font-size: 3.5em;
   white-space: nowrap;
   font-weight: bold;
@@ -57,11 +57,11 @@ body {
 }
 
 .container .box span i:nth-child(1) {
-  color: #5c5fc4;
+  color: #64b5f6;
 }
 
 .container .box span i:nth-child(2) {
-  color: #c4c15c;
+  color: #42a5f5;
 }
 
 @keyframes animate {
